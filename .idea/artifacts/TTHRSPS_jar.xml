@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="TTHRSPS:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/TTHRSPS_jar</output-path>
-    <root id="archive" name="TTHRSPS.jar">
-      <element id="module-output" name="TTHRSPS" />
-    </root>
-  </artifact>
-</component>
